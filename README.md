@@ -26,4 +26,9 @@ You can choose the pollutant name (radio button) to see the pollution map of eac
 
 There is also a dropdown to choose the state, and a date selection bar. The default value is Michigan on 01/01/2020. The range is from 01/01/2015 to 12/31/2021.
 
-After selection, you will be able to see the pollution map of a certain type of pollutant 
+After selection, you will be able to see the pollution map of a certain type of pollutant of a state on one day.
+
+### Right sidebar
+You can choose the number of tweets you'd like to see by the dropdown box. (5, 10, 20)
+
+The default number is 10.
