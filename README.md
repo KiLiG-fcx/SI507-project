@@ -36,16 +36,16 @@ The default number is 10.
 ## Required python packages
 The required python packages are:
 <ul>
-  <li>requests
-  <li>numpy
-  <li>us
-  <li>datetime
-  <li>pandas
-  <li>statistics
-  <li>jupyter_dash
-  <li>dash
-  <li>dash_bootstrap_components
-<\ul>
+  <li>requests</li>
+  <li>numpy</li>
+  <li>us</li>
+  <li>datetime</li>
+  <li>pandas</li>
+  <li>statistics</li>
+  <li>jupyter_dash</li>
+  <li>dash</li>
+  <li>dash_bootstrap_components</li>
+</ul>
 
 ## Data Structure
 The data strcutures of air pollution data and tweets data are both trees, and they are connected by state.
