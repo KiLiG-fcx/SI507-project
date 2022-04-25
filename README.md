@@ -38,3 +38,10 @@ The required python packages are:
 <ul>
   <li>requests
   <li>numpy
+  <li>us
+  <li>datetime
+  <li>pandas
+  <li>statistics
+  <li>jupyter_dash
+  <li>dash
+  <li>dash_bootstrap_components
