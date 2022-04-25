@@ -45,6 +45,7 @@ The required python packages are:
   <li>jupyter_dash
   <li>dash
   <li>dash_bootstrap_components
+<\ul>
 
 ## Data Structure
 The data strcutures of air pollution data and tweets data are both trees, and they are connected by state.
