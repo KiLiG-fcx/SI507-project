@@ -8,6 +8,6 @@ Get free mapbox tokens at https://docs.mapbox.com/help/getting-started/access-to
 
 Then fill the token into the line
   
-  px.set_mapbox_access_token("<Your access token>")
+    px.set_mapbox_access_token("<Your access token>")
 
 ### Twitter API
