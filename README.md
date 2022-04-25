@@ -36,5 +36,5 @@ The default number is 10.
 ## Required python packages
 The required python packages are:
 <ul>
-  <li>requests<\li>
-  <\ul>
+  <li>requests
+  <li>numpy
