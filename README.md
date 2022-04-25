@@ -10,7 +10,6 @@ Get free Mapbox tokens at https://docs.mapbox.com/help/getting-started/access-to
 Then fill the token in the line
   
     px.set_mapbox_access_token("<Your access token>")
-
 ### Twitter API
 Get free Twitter API for developers at https://developer.twitter.com/en/docs/twitter-api.
 
