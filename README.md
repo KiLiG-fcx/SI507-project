@@ -32,3 +32,9 @@ After selection, you will be able to see the pollution map of a certain type of 
 You can choose the number of tweets you'd like to see by the dropdown box. (5, 10, 20)
 
 The default number is 10.
+
+## Required python packages
+The required python packages are:
+<ul>
+  <li>requests<\li>
+  <\ul>
