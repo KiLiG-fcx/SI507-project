@@ -49,3 +49,15 @@ The required python packages are:
 
 ## Data Structure
 The data strcutures of air pollution data and tweets data are both trees, and they are connected by state.
+The us library is used to translate FIPS code to state name (and vice versa).
+
+The air data contains latitude and longitude of each site, then it is divided into air pollution index like SO2, CO, etc., and air quality index (AQI).
+
+The tweet data contains number of tweets, and a list of tweet capture results. Within the result, there are tweet id, text and its public metrics.
+
+`construct.py` is used to create trees from json file. The `air_cache.json` and `tweet_cache.json` files are the cache files containing a small portion of data. 
+The construction python file will read from these them, and create trees to `StateNews` and `Site` classes. `Site` class refers to air pollution data structure, while `StateNews` refers to tweet data structure.
+
+`StateNews` stores all the required tweets of a state in it. The `Tweet` class represents a single tweet.
+
+Also, a `.ipynb` version is provided to each python file.
