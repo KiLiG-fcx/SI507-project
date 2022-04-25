@@ -15,3 +15,10 @@ Then fill the token in the line
 Get free Twitter API for developers at https://developer.twitter.com/en/docs/twitter-api.
 
 Replace the variables `API_Key`, `API_Key_Secret`, `Bearer_Token`, `Access_Token`, `Access_Token_Secret` with the keys in your account.
+
+### US EPA Air quality data API
+Get free API key with email at https://aqs.epa.gov/aqsweb/documents/data_api.html#signup.
+
+Replace with your email and key in `email`, `aqi_key`.
+
+## How to interact with the dashboard
