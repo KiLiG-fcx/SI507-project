@@ -21,3 +21,9 @@ Get free API key with email at https://aqs.epa.gov/aqsweb/documents/data_api.htm
 Replace with your email and key in `email`, `aqi_key`.
 
 ## How to interact with the dashboard
+### Left sidebar
+You can choose the pollutant name (radio button) to see the pollution map of each type. There are total 6 choices, the default choice is PM2.5.
+
+There is also a dropdown to choose the state, and a date selection bar. The default value is Michigan on 01/01/2020. The range is from 01/01/2015 to 12/31/2021.
+
+After selection, you will be able to see the pollution map of a certain type of pollutant 
