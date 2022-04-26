@@ -1,6 +1,6 @@
 # SI507-project
 SI507 final project.
-The main program to create plotly dash is final project
+The main program to create plotly dash is final project.py/final project.ipynb.
 
 This is a plotly dashboard showing the pollution in each state in the U.S. It also shows relevant tweets in recent days.
 ## Get the tokens
